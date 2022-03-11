@@ -2,6 +2,8 @@ Hi, I am Filip Gulan, also known as Raiper34. I am mainly a Frontend engineer wi
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Raiper34&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raiper34&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Raiper34/Raiper34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
