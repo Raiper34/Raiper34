@@ -16,6 +16,8 @@ Also known as Raiper34. I am mainly a Frontend engineer with over 5 years of ind
 <a href="https://ionicframework.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="ionic" width="40" height="40"/> </a>
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a>
 <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a>
+<a href="https://appwrite.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" alt="appwrite" width="40" height="40"/> </a>
+<a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" alt="bulma" width="40" height="40"/> </a>
 <a href="https://phaser.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Phaser_Logo.png" alt="phaser" width="40" height="40"/> </a>
 </div>
 
